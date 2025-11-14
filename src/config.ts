@@ -131,7 +131,7 @@ export const siteConfig: SiteConfig = {
         label: "Markdown Guide",
       },
       {
-        link: "https://github.com/lauroguedes/bloomfolio",
+        link: "https://github.com/yuchihatuntun/NoteCube",
         icon: CodeXml,
         label: "GitHub Repo",
       },
