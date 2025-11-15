@@ -95,21 +95,21 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  name: "Tuntun Uchiha",
+  title: "A note repository for developers and learners",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
+    "NoteCube is a powerful note-taking app designed specifically for developers and learners. Organize your knowledge with ease and efficiency.",
   avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
-  email: "hello@example.com",
+  location: "China",
+  email: "xurlin7@mail2.sysu.edu.cn",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
+    github: "https://github.com/yuchihatuntun",
+    linkedin: "https://linkedin.com",
+    twitter: "https://twitter.com",
+    bluesky: "https://bsky.app",
+    instagram: "https://instagram.com",
+    youTube: "https://youtube.com",
+    codetips: "https://codetips.cloud",
   },
   enableThemeSelector: true,
   extraLinks: {
