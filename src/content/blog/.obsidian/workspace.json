@@ -185,16 +185,16 @@
   },
   "active": "3e73cfab63fde7ea",
   "lastOpenFiles": [
-    "pic/真实风险-vs-经验风险.png",
-    "AI_Note/Optimization-Algorithm.md",
+    "AI_Note/Multi-Layer-Perceptron_(MLP).md",
     "AI_Note/Modern-Convolutional-Neural-Networks.md",
+    "AI_Note/Linear-Neural-Network.md",
+    "AI_Note/Optimization-Algorithm.md",
+    "AI_Note/Deep-Learning-Computing.md",
+    "AI_Note/Convolutional-Neural-Network_(CNN).md",
+    "AI_Note/AI360-Chapter-01.md",
+    "pic/真实风险-vs-经验风险.png",
     "AI_Note/AI360-Chapter-04.md",
     "AI_Note/AI360-Chapter-03.md",
-    "AI_Note/AI360-Chapter-02.md",
-    "AI_Note/AI360-Chapter-01.md",
-    "AI_Note/Linear-Neural-Network.md",
-    "AI_Note/Convolutional-Neural-Network_(CNN).md",
-    "AI_Note/Multi-Layer-Perceptron_(MLP).md",
-    "AI_Note/Deep-Learning-Computing.md"
+    "AI_Note/AI360-Chapter-02.md"
   ]
 }
