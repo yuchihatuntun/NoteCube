@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "76d3d73a8a8705d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6967c721be7fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e73cfab63fde7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI_Note/Optimization-Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimization-Algorithm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72be1c94bd4d1fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13ecfdbfd478d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117b84e039d263fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5018ff68cffe13f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "159f4db2856b9f9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b858d7df5f35a2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6548ec371c2d5820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70621bd859b10ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI_Note/Optimization-Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Optimization-Algorithm 的反向链接列表"
+            }
+          },
+          {
+            "id": "62ed804049532b21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI_Note/Optimization-Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Optimization-Algorithm 的出链列表"
+            }
+          },
+          {
+            "id": "f7ada51434856714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ace9cd1eba78c011",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7b9b87509cec62fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI_Note/Optimization-Algorithm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Optimization-Algorithm 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "3e73cfab63fde7ea",
+  "lastOpenFiles": [
+    "pic/真实风险-vs-经验风险.png",
+    "AI_Note/Optimization-Algorithm.md",
+    "AI_Note/Modern-Convolutional-Neural-Networks.md",
+    "AI_Note/AI360-Chapter-04.md",
+    "AI_Note/AI360-Chapter-03.md",
+    "AI_Note/AI360-Chapter-02.md",
+    "AI_Note/AI360-Chapter-01.md",
+    "AI_Note/Linear-Neural-Network.md",
+    "AI_Note/Convolutional-Neural-Network_(CNN).md",
+    "AI_Note/Multi-Layer-Perceptron_(MLP).md",
+    "AI_Note/Deep-Learning-Computing.md"
+  ]
+}
