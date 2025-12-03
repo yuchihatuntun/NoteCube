@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence Note - Optimization Algorithm
-summary: A concise overview of optimization algorithms and practical tuning tips.
+description: A concise overview of optimization algorithms and practical tuning tips.
 image: ../cover/cover_11.png
 publishDate: 2025-12-03
 tags:
